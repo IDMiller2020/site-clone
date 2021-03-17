@@ -1,0 +1,21 @@
+.banner {
+  background-image: url(./marilia-castelli-wCVNhNnI_2s-unsplash.jpg);
+  height: 25rem;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner-text {
+  background-color: #44359494;
+  padding: 2rem;
+}
+
+.icon {
+  font-weight: 2rem;
+  padding: 2rem;
+}
+
+img {
+  height: 5rem;
+  
+}
